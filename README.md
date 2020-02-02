@@ -6,7 +6,7 @@ first of all,we had better have a licence for the current open source project.
 
 such as ,current open source project is using Apache Licence 2.0.
 
-if you want to choose other licence ,please check the article [how to choose free software licenses](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+if you want to know more about software licence or choose other software licence ,please check the article [how to choose free software licenses](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 ## 1.1 Getting Started
 
