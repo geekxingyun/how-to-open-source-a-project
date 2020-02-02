@@ -2,7 +2,7 @@
 
 this is an example about how to open source a project.
 
-first of all,we had better have a licence for the current open source project.
+first of all,we had better have a software licence for the current open source project.
 
 such as ,current open source project is using Apache Licence 2.0.
 
