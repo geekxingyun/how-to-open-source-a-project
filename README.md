@@ -10,6 +10,8 @@ Open source project root directory configuration ignore file
 
 - CONTRIBUTING.md
 
+how to check out, build, and import the open source code into your IDE.
+
 - LICENSE
 
 we had better have a software licence for the current open source project.
