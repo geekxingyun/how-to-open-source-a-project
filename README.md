@@ -10,7 +10,7 @@ if you want to know more about software licence or choose other software licence
 
 ## 1.1 Getting Started
 
-This is just an example application,please show how to use your open source project.
+please show how to use your open source project and it is usually an example,
 
 ## 1.2 Building the Application
 
