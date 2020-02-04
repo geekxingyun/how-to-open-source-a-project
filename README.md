@@ -2,11 +2,15 @@
 
 this is an example about how to open source a project.
 
-First of all,we need create the four file as below:
+First of all,we need create the five file as below:
 
 - .gitignore
 
 Open source project root directory configuration ignore file
+
+- .mailmap
+
+Email in question about the current project
 
 - CONTRIBUTING.md
 
