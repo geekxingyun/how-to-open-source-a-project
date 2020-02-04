@@ -2,7 +2,7 @@
 
 this is an example about how to open source a project.
 
-First of all,we need create the five file as below:
+First of all,we need create the six file as below:
 
 - .gitignore
 
@@ -11,6 +11,10 @@ Open source project root directory configuration ignore file
 - .mailmap
 
 provider author email so that others can contact you about this project
+
+- .gitattributes
+
+Ensure line endings for binary files are not modified in Git
 
 - CONTRIBUTING.md
 
