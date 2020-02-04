@@ -10,7 +10,7 @@ Open source project root directory configuration ignore file
 
 - .mailmap
 
-provider author email so that others can contact you about this project
+provide author email so that others can contact you about this project
 
 - .gitattributes
 
@@ -34,16 +34,16 @@ the content should be like this:
 
 ## 1.1 Getting Started
 
-please show how to use your open source project and it is usually an example,
+provide an example about how to use your open source project.
 
 ## 1.2 Building the Application
 
-please show that how to build the application.
+provide some information about how to build the open source project.
 
 ## 1.3 Deploying
 
-please show that how to run the app.
+provide some information about how to run the app.
 
 ## 1.4 Contributing
 
-please show who is developing the app.
+provide some information about who is developing the app.
