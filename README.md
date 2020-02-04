@@ -10,7 +10,7 @@ Open source project root directory configuration ignore file
 
 - .mailmap
 
-Email in question about the current project
+provider author email so that others can contact you about this project
 
 - CONTRIBUTING.md
 
