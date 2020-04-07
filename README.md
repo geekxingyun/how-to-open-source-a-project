@@ -39,9 +39,13 @@ if you want to know more about software licence or choose other software licence
 
 - README.md
 
-the content should be like this:
-```
+introduce your open source project in english.
 
+- README_zh.md
+
+introduce your open source project in chinese.
+
+```
 ## 1.2 Building the Application
 
 provide some information about how to build the open source project.
