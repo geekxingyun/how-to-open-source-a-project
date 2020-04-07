@@ -13,6 +13,3 @@ or
 ```bash
 git clone git@github.com:geekxingyun/how-to-open-source-a-project.git
 ```
-
-
-
