@@ -2,6 +2,12 @@
 
 this is an example about how to open source a project.
 
+## 1.1 Getting Started
+
+provide an example about how to use your open source project.
+
+```
+
 First of all,we need create the six file as below:
 
 - .gitignore
@@ -31,10 +37,7 @@ if you want to know more about software licence or choose other software licence
 - README.md
 
 the content should be like this:
-
-## 1.1 Getting Started
-
-provide an example about how to use your open source project.
+```
 
 ## 1.2 Building the Application
 
