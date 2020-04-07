@@ -39,11 +39,11 @@ if you want to know more about software licence or choose other software licence
 
 - README.md
 
-introduce your open source project in english.
+introduce your open source project in English.
 
 - README_zh.md
 
-introduce your open source project in chinese.
+introduce your open source project in Chinese.
 
 ```
 ## 1.2 Building the Application
