@@ -11,7 +11,7 @@ provide an example about how to use your open source project.
 
 ```
 
-First of all,we need create the six file as below:
+First of all,we need create these files as below:
 
 - .gitignore
 
