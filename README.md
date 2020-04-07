@@ -48,8 +48,12 @@ provide some information about how to build the open source project.
 
 ## 1.3 Deploying
 
+provide some information about how to deploy the app.
+
+## 1.4 Running
+
 provide some information about how to run the app.
 
-## 1.4 Contributing
+## 1.5 Contributing
 
 provide some information about who is developing the app.
