@@ -46,11 +46,11 @@ the content should be like this:
 
 provide some information about how to build the open source project.
 
-## 1.3 Deploying
+## 1.3 Deploying the Application
 
 provide some information about how to deploy the app.
 
-## 1.4 Running
+## 1.4 Running the Application
 
 provide some information about how to run the app.
 
