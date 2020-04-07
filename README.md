@@ -1,7 +1,10 @@
 # how-to-open-source-a-project
 
-this is an example about how to open source a project.
+Tell others what is the current open source project?
 
+```
+this is an example about how to open source a project.
+```
 ## 1.1 Getting Started
 
 provide an example about how to use your open source project.
