@@ -2,49 +2,60 @@
 
 这是一个例子，关于如何开源一个项目。
 
-## 1.1 Getting Started
+## 1.1 开始入门
 
-provide an example about how to use your open source project.
+提供一个例子关于如何使用你的开源项目。
 
 ```
-we should create these files as below:
+我们应该创建下面的这些文件：
 
 - .gitignore
 
-Open source project root directory configuration ignore file
+开源项目根目录配置忽略哪些文件提交
 
 - .mailmap
 
-provide author email so that others can contact you about this project
+提供项目开源支持的邮件列表
 
 - .gitattributes
 
-Ensure line endings for binary files are not modified in Git
+确保文件可以被正确对待
 
 - CONTRIBUTING.md
 
-how to check out, build, and import the open source code into your IDE.
+如果下载,编译，导入开源项目到你的IDE里面。
 
 - LICENSE
 
-we had better have a software licence for the current open source project.
+我们最好为我们当前开源的项目提供一个软件证书。
 
-such as ,current open source project is using Apache Licence 2.0.
+例如,当前项目正在使用 Apache Licence 2.0.
 
-if you want to know more about software licence or choose other software licence ,please check the article [how to choose free software licenses](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
+如果想知道更多关于证书的知识或选择其他的软件证书，可以看看这篇文章:
+
+[如何选择免费的开源证书](http://www.ruanyifeng.com/blog/2011/05/how_to_choose_free_software_licenses.html)
 
 - README.md
 
-about the open source project introduce.
+关于这个项目的英文介绍
+
+- README_zh.md
+
+关于这个项目的中文介绍
+
 ```
-## 1.2 Building the Application
+## 1.2 构建应用程序
 
-provide some information about how to build the open source project.
+提供一些信息关于如何编译构建这个开源项目
 
-## 1.3 Deploying
+## 1.3 部署
 
-provide some information about how to run the app.
+提供信息如何部署这个项目
+
+## 1.4 运行
+
+提供信息如何运行这个项目
 
 ## 1.4 Contributing
 
-provide some information about who is developing the app.
+提供信息是谁在为这个项目做出贡献。
